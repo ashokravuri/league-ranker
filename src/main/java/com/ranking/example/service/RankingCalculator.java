@@ -1,6 +1,6 @@
-package com.span.digital.service;
+package com.ranking.example.service;
 
-import com.span.digital.dto.Team;
+import com.ranking.example.dto.Team;
 
 import java.util.List;
 

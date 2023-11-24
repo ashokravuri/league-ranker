@@ -1,4 +1,4 @@
-package com.span.digital.dto;
+package com.ranking.example.dto;
 
 import java.util.Objects;
 

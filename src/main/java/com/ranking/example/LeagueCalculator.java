@@ -1,8 +1,8 @@
-package com.span.digital;
+package com.ranking.example;
 
-import com.span.digital.dto.Team;
-import com.span.digital.service.RankingCalculator;
-import com.span.digital.service.RankingCalculatorImpl;
+import com.ranking.example.service.RankingCalculatorImpl;
+import com.ranking.example.dto.Team;
+import com.ranking.example.service.RankingCalculator;
 
 import java.util.ArrayList;
 import java.util.List;

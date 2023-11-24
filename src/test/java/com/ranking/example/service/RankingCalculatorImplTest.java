@@ -1,8 +1,7 @@
-package com.span.digital.service;
+package com.ranking.example.service;
 
-import com.span.digital.dto.Team;
-import com.span.digital.exception.InvalidResultFormatException;
-import org.junit.jupiter.api.BeforeAll;
+import com.ranking.example.dto.Team;
+import com.ranking.example.exception.InvalidResultFormatException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

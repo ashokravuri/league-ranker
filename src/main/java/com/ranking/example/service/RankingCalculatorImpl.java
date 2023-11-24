@@ -1,7 +1,7 @@
-package com.span.digital.service;
+package com.ranking.example.service;
 
-import com.span.digital.dto.Team;
-import com.span.digital.exception.InvalidResultFormatException;
+import com.ranking.example.exception.InvalidResultFormatException;
+import com.ranking.example.dto.Team;
 
 import java.util.*;
 import java.util.regex.Matcher;
