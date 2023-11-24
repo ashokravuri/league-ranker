@@ -1,6 +1,5 @@
 # league-ranker
-This repository contains a command-line application for calculating and maintaining the ranking table for a sports league based on game results.
-
+The **league-ranker** is a command-line application that calculates and displays the ranking table for a sports league. It processes input results of games entered through the console and outputs the rankings in a specified format.
 
 ## Build and Run Instructions
 
